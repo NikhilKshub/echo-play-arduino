@@ -1,7 +1,5 @@
 # 🎵 EchoPlay – Arduino Multi-Mode Music & Memory System
 
-![Setup](./setup.jpeg)
-
 EchoPlay is a fun and interactive Arduino-based project that combines **music playback, memory challenges, and a game mode** into a single system using an LCD display, buttons, LEDs, and a buzzer.
 
 Built as an exploration project, it started simple (just LEDs)… and quickly evolved into a complete interactive system.
